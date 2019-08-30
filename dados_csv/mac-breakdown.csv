@@ -1,0 +1,16 @@
+InterfModel,node|Falha, estouro de buffer|Falha, canal ocupado|Falha, sem ACK|Sucesso, primeira tentativa|Sucesso, mais de uma tentativa|Modelo de colisao|nó|simulacao
+InterfModel=0,node=1 |0.0|17.7|33.47|2219.68|726.87|0|1|0.9
+InterfModel=0,node=2 |0.0|19.16|12.67|2258.64|707.38|0|2|0.9
+InterfModel=0,node=3 |0.04|18.53|69.35|3468.12|938.96|0|3|0.9
+InterfModel=0,node=4 |1290.3|16.83|39.31|5062.9|1059.23|0|4|0.9
+InterfModel=0,node=5 |1462.14|15.93|76.12|4831.15|1082.55|0|5|0.9
+InterfModel=1,node=1 |0.0|19.81|80.33|2068.66|828.68|1|1|0.9
+InterfModel=1,node=2 |0.0|19.77|59.2|2102.5|816.21|1|2|0.9
+InterfModel=1,node=3 |2.96|19.03|132.39|3275.72|1062.26|1|3|0.9
+InterfModel=1,node=4 |2175.65|17.57|103.05|4029.24|1141.77|1|4|0.9
+InterfModel=1,node=5 |2419.75|16.47|175.78|3678.96|1176.23|1|5|0.9
+InterfModel=2,node=1 |0.0|18.54|61.28|2149.17|768.56|2|1|0.9
+InterfModel=2,node=2 |0.0|19.4|7.48|2359.1|611.78|2|2|0.9
+InterfModel=2,node=3 |0.47|18.54|108.99|3361.87|1004.45|2|3|0.9
+InterfModel=2,node=4 |1740.36|17.18|65.78|4602.7|1041.64|2|4|0.9
+InterfModel=2,node=5 |2082.7|15.93|133.59|4114.91|1120.17|2|5|0.9
